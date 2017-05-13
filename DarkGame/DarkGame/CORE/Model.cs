@@ -11,5 +11,12 @@ namespace MyGames.Core
 {
     class Model
     {
+        private List<GameObject> _objectInMap;
+        private List<Zone> _allZone;
+
+        public Model()
+        {
+
+        }
     }
 }

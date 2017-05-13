@@ -7,9 +7,6 @@ namespace MyGames.Core
 {
     class Zone
     {
-        private int[][] zone;
-        private int[][] zoom;
-
         public Zone()
         {
             

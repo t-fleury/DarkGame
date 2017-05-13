@@ -22,6 +22,7 @@ namespace MyGames.Core
             position.Y = yPos;
         }
 
+        /** Needed for print sprite **/
         public void Draw(SpriteBatch spriteBatch)
         {
             spriteBatch.Draw(texture, position, Color.White);
